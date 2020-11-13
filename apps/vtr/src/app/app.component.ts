@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
- 
 
 @Component({
   selector: 'lla-root',
@@ -8,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'vtr';
+  counter = '0';
 }
